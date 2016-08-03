@@ -1,0 +1,24 @@
+{
+    "name": "curtain-menu",
+    "description": "Attempt to create Curtain Menu",
+    "authors": "Sae Vang",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "html5shiv": "^3.7.3",
+        "jquery": "~1.11.x",
+        "jquery-infield-label": "~0.1.x",
+        "matchHeight": "matchheight#^0.7.0",
+        "modernizr": "~2.8.2",
+        "picturefill": "3.0.x"
+    },
+    "devDependencies": {
+        "breakpoint-sass": "^2.6.1",
+        "normalize-css": "^4.1.1",
+        "susy": "^2.2.12"
+    }
+}
